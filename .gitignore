@@ -1,4 +1,4 @@
 *.pyc
 *.pyo
 __pycache__/
-"private key"/
+private_key/
